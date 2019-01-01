@@ -4,8 +4,11 @@
 
 Code related to thesis work: **"AdaBnn: Binarized Neural Networks trained with adaptive structural learning"** [[pdf]](https://mega.nz/#!SkFhxCSI!YQO-ZYQl5tFlEGpkl2nR13zzFAzJeT5iCgZt8AzvIsQ)
 
-This repository contains currently two colaboratoy notebooks, [English](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_en.ipynb\) and [Spanish](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_es.ipynb\)
-that document experiments made with an experimental **Keras** based implementation of the AdaNet algorithm presented in “[AdaNet: Adaptive Structural Learning of Artificial Neural Networks](http://proceedings.mlr.press/v70/cortes17a.html)” at [ICML 2017](https://icml.cc/Conferences/2017), for learning the structure of a neural network as an ensemble of subnetworks. Also, AdaBnn is presented as a modification of AdaNet that imposed binary constraints on running time to try to increase performance in terms of time and as a way of regularization based on "[Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830)".
+This repository contains currently two colaboratoy notebooks:
+* [English](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_en.ipynb)
+* [Spanish](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_es.ipynb)
+
+That document experiments made with an experimental **Keras** based implementation of the AdaNet algorithm presented in “[AdaNet: Adaptive Structural Learning of Artificial Neural Networks](http://proceedings.mlr.press/v70/cortes17a.html)” at [ICML 2017](https://icml.cc/Conferences/2017), for learning the structure of a neural network as an ensemble of subnetworks. Also, AdaBnn is presented as a modification of AdaNet that imposed binary constraints on running time to try to increase performance in terms of time and as a way of regularization based on "[Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/abs/1602.02830)".
 
 Also, separated code is included containing Adanet and AdaBnn implementations with its documentation.
 
