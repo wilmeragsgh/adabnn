@@ -4,7 +4,7 @@
 
 Code related to thesis work: **"AdaBnn: Binarized Neural Networks trained with adaptive structural learning"** [[pdf]](https://mega.nz/#!SkFhxCSI!YQO-ZYQl5tFlEGpkl2nR13zzFAzJeT5iCgZt8AzvIsQ)
 
-This repository contains currently two colaboratoy notebooks:
+This repository contains currently two colaboratory notebooks:
 * [English](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_en.ipynb)
 * [Spanish](https://colab.research.google.com/github/wilmeragsgh/adabnn/blob/master/experiments_es.ipynb)
 
@@ -56,7 +56,7 @@ training_results = model.evaluate(x_test,y_test,verbose=0)
 
 ## Citing this Work
 
-If you use these implementations for academic research, you are encouraged to cite the following:
+If you use these implementations for academic research, please cite the following:
 
     @misc{gonzalez2018adabnn,
       author    = {Wilmer Gonzalez},
